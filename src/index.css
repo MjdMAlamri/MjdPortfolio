@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Base styles */
+@layer base {
+  html, body, #root { height: 100%;}
+  section[id] {
+    scroll-margin-top: 30px;
+  }
+  body {
+    @apply text-text;
+    /* keep it simple: don’t use theme() here */
+    background: #c2c2c2;
+
+    font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
+    margin: 0;
+  }
+
+  a { @apply outline-none; }
+}
+
+/* Reusable component classes */
+@layer components {
+  .section { @apply max-w-6xl mx-auto px-4 sm:px-6; }
+  .h2-title { @apply text-3xl sm:text-4xl font-semibold tracking-tight; }
+  .card { @apply rounded-2xl bg-card text-text shadow-xl; }
+  .card-outline { @apply rounded-2xl border border-white/10; }
+}
