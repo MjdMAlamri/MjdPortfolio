@@ -33,7 +33,7 @@ const UIUX_PROJECTS = [
     desc:
       "CareerBridge is an AI-driven platform designed to bridge the gap between education and the job market. It helps students and professionals identify skill gaps, follow personalized career roadmaps, and prepare for their dream roles through smart CV analysis and AI-powered interview practice. By combining guided learning with actionable insights, CareerBridge transforms education into employability.",
     img: "https://images.unsplash.com/photo-1749544811061-28c9d6acad55?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2478",
-    repo: "/CareerBridge Prototype",
+    repo: "/CareerBridge Prototype.pdf",
   },
   {
     id: 5,
@@ -41,7 +41,7 @@ const UIUX_PROJECTS = [
     desc:
       "Smart Fridge Assistant is an AI-powered app that turns your fridge into a personal chef. By detecting ingredients from a single photo, it generates customized recipes and creates a smart shopping list in a HungerStation-style interface. It saves time, reduces food waste, and makes daily meal planning effortless for every family.",
     img: "https://images.unsplash.com/photo-1749544811061-28c9d6acad55?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2478",
-    repo: "/CareerBridge Prototype",
+    repo: "/GastroAI Team Prototype.pdf",
   },
 ];
 
