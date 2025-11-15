@@ -17,7 +17,7 @@ const UIUX_PROJECTS = [
     desc:
       "Participated in Accenture’s Innovation Hub Challenge, where our team designed an innovative solution to enhance the youth travel journey with greater engagement. The project involved building a comprehensive business case covering feasibility, costs, and value proposition, alongside a proposed digital experience supported by UI/UX design prototypes.",
     img: "https://images.unsplash.com/photo-1749544811712-bfa0f7aec2f0?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2478",
-    repo: "/public/UIUXProject - MjdAlamri.pdf",
+    repo: "/UIUXProject - MjdAlamri.pdf",
   },
   {
     id: 3,
@@ -26,6 +26,22 @@ const UIUX_PROJECTS = [
       "Developed a system that analyzes hotel guest reviews, performs sentiment classification, and visualizes insights through an intuitive, user-friendly dashboard. Designed and optimized the UI/UX to ensure clarity and engagement, empowering travelers to make confident booking decisions and helping hotels enhance service quality in line with Saudi Vision 2030 tourism goals.",
     img: "https://images.unsplash.com/photo-1749544811061-28c9d6acad55?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2478",
     repo: "/MjdAlamri - Smart Hotel Review Sentiment Analysis System.pdf",
+  },
+  {
+    id: 4,
+    title: "CareerBridge – AI-Powered Career Readiness App",
+    desc:
+      "CareerBridge is an AI-driven platform designed to bridge the gap between education and the job market. It helps students and professionals identify skill gaps, follow personalized career roadmaps, and prepare for their dream roles through smart CV analysis and AI-powered interview practice. By combining guided learning with actionable insights, CareerBridge transforms education into employability.",
+    img: "https://images.unsplash.com/photo-1749544811061-28c9d6acad55?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2478",
+    repo: "/CareerBridge Prototype",
+  },
+  {
+    id: 5,
+    title: "GastroAI – AI-Powered Smart Fridge Assistant",
+    desc:
+      "Smart Fridge Assistant is an AI-powered app that turns your fridge into a personal chef. By detecting ingredients from a single photo, it generates customized recipes and creates a smart shopping list in a HungerStation-style interface. It saves time, reduces food waste, and makes daily meal planning effortless for every family.",
+    img: "https://images.unsplash.com/photo-1749544811061-28c9d6acad55?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2478",
+    repo: "/CareerBridge Prototype",
   },
 ];
 

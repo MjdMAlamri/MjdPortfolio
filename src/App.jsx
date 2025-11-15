@@ -2,7 +2,7 @@ import React, { useEffect, useState, useRef } from "react";
 import { Routes, Route, Link, Outlet } from "react-router-dom";
 import {
   Linkedin, Mail, Download, Github, Star, Sparkles, Laptop, BarChart3, ExternalLink,
-  GitBranch, Code2, Palette, Timer, Presentation, ShieldCheck, Rocket, Workflow, Gamepad2, Award, BadgeCheck,Medal,ScrollText
+  GitBranch, Code2, Palette, Timer, Presentation, ShieldCheck, Rocket, Workflow, Gamepad2, Award, Trophy, BadgeCheck,Medal,ScrollText
 } from "lucide-react";
 import ScrollToTop from "./ScrollToTop";
 import PythonPage from "./Skill/python";
@@ -23,7 +23,7 @@ const Nav = () => {
     { href: "#home", label: "Home" },
     { href: "#skills", label: "Skills" },
     { href: "#experience", label: "Experience" },
-    { href: "#about", label: "Certifications " },
+    { href: "#about", label: "Certifications & Awards" },
     { href: "#projects", label: "Projects" },
     { href: "#contact", label: "Contact Me" },
   ];
@@ -389,6 +389,31 @@ const About = () => (
           • DP-900 - Microsoft Azure Data Fundamentals &nbsp;&nbsp;&nbsp;&nbsp; Sep 2025<br />
           • ITIL® 4 Foundation – PeopleCert &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mar 2025
         </p>
+      </div>
+
+
+<div>
+        <h3 className="text-3xl sm:text-4xl font-bold">
+        Honors & Awards <span className="inline-block"></span>
+        </h3>
+        <p className="mt-4 text-black/80 leading-7 text-sm">
+        • Second Class Honors Degree (Computer Science) from Princess Nourah University<br />
+        • Successfully passed the PNU comprehensive Exit Exam evaluating mastery of core subjects across the four-year degree<br />
+        • Won first Place in Accenture Innovation Hub Competition <br />
+        • Won at the SparkUp Challenge 2025 by KSU and Alinma Bank with CareerBridge App<br />
+           </p>
+      </div>
+      <div className="rounded-2xl border border-gray-200 p-6 flex items-center justify-center bg-gray-50">
+        <div
+          className="w-52 h-64 rounded-2xl flex items-center justify-center"
+          style={{
+            background: "linear-gradient(135deg, rgba(255,255,255,0.8), rgba(245,245,245,0.6))",
+            backdropFilter: "blur(20px)",
+            WebkitBackdropFilter: "blur(20px)",
+          }}
+        >
+         <Award className="text-black" style={{ width: "120px", height: "120px" }}/>
+        </div>
       </div>
     </div>
   </section>

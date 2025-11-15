@@ -7,7 +7,7 @@ const GAMES = [
     id: 1,
     title: "CS392 Game Development Project",
     desc:
-      "Designed and developed a fun, fast-paced game where players control a fish that must eat smaller fishes to survive. The project focused on gameplay balance, level progression, and creating an engaging player experience with clear visual feedback and challenge escalation.Fast-paced platformer with procedurally generated levels, collectibles, and a global leaderboard. Built with a clean state machine.",
+      "Designed and developed a fun, fast-paced game where players control a fish that must eat smaller fishes to survive. The project focused on gameplay balance, level progression, and creating an engaging player experience with clear visual feedback and challenge escalation.",
     img: "https://images.unsplash.com/photo-1749544811972-4ff163f3ad49?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2478",
     repo: "/public/MjdAlamri-GameDev.pdf",
   },
@@ -23,7 +23,7 @@ const GAMES = [
     id: 3,
     title: "2D XO!",
     desc:
-      "Advanced rules version with AI (minimax) and online mode via Firebase. Elegant UI with match history.",
+      "Advanced rules version with AI and online mode via Firebase. Elegant UI with match history.",
     img: "https://images.unsplash.com/photo-1749544811061-28c9d6acad55?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2478",
     repo: "https://mjdalamrisimplegame.netlify.app",
   },

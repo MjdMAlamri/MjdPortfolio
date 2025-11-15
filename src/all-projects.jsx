@@ -16,7 +16,7 @@ const PythonPage = () => {
       title: "Youth Travel Experience Solution - Accenture Innovation Hub",
       desc: "Participated in Accenture’s Innovation Hub Challenge, where our team designed an innovative solution to enhance the youth travel journey with greater engagement. The project involved building a comprehensive business case covering feasibility, costs, and value proposition, alongside a proposed digital experience (App) supported by UI/UX design prototypes.",
       img: "https://images.unsplash.com/photo-1749544811712-bfa0f7aec2f0?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2478",
-      repo: "/public/UIUXProject - MjdAlamri.pdf",
+      repo: "/UIUXProject - MjdAlamri.pdf",
     },
     {
       id: 3,
@@ -37,7 +37,7 @@ const PythonPage = () => {
         title: "NoraStu+ - IS350 Project Management Project",
         desc: "In this project, I led a team and we selected an existing app and made improvements by either adding new features or enhancing existing ones. The project involved creating key project management documents, including the Project Charter, Project Scope Statement, WBS, WBS Dictionary, RACI, Risk Register, and a Gantt Chart to ensure structured execution and timely delivery.",
         img: "https://images.unsplash.com/photo-1749544811061-28c9d6acad55?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2478",
-        repo: "/public/MjdAlamri - NoraStu+ Sample of work.pdf",
+        repo: "/MjdAlamri - NoraStu+ Sample of work.pdf",
       },
       {
         id: 6,

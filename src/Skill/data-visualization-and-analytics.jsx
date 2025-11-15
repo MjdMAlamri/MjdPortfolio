@@ -9,8 +9,8 @@ const projects = [
     desc:
       "Created a dynamic Power BI dashboard that consolidates sales data by region, agent, and product category. The report delivers actionable insights into sales trends, customer activity, and gross profit, enhancing business intelligence and strategic planning.",
     img: "https://images.unsplash.com/photo-1749544811972-4ff163f3ad49?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2478",
-    repo: "/MjdAlamri-PowerBIProject.pdf",
-    icon: ExternalLink,
+    repo: "/MjdAlamri-PowerBIProject.png",
+    icon: Github,
   },
   {
     id: 2,
@@ -18,7 +18,7 @@ const projects = [
     desc:
       "Conducted an exploratory data analysis to uncover patterns, correlations, and trends within the dataset. Cleaned, visualized, and interpreted the data to extract actionable insights that support data-driven decision-making.",
     img: "https://images.unsplash.com/photo-1749544811712-bfa0f7aec2f0?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=2478",
-    repo: "/MLProject.html",
+    repo: "/MjdAlamri-MLProject.html",
     icon: Github,
   },
 ];
